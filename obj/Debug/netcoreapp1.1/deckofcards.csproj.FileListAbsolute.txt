@@ -1,0 +1,8 @@
+/home/hermitwife/cojo/dotnetcore/fundamentals/deckofcards/bin/Debug/netcoreapp1.1/deckofcards.deps.json
+/home/hermitwife/cojo/dotnetcore/fundamentals/deckofcards/bin/Debug/netcoreapp1.1/deckofcards.runtimeconfig.json
+/home/hermitwife/cojo/dotnetcore/fundamentals/deckofcards/bin/Debug/netcoreapp1.1/deckofcards.runtimeconfig.dev.json
+/home/hermitwife/cojo/dotnetcore/fundamentals/deckofcards/bin/Debug/netcoreapp1.1/deckofcards.dll
+/home/hermitwife/cojo/dotnetcore/fundamentals/deckofcards/bin/Debug/netcoreapp1.1/deckofcards.pdb
+/home/hermitwife/cojo/dotnetcore/fundamentals/deckofcards/obj/Debug/netcoreapp1.1/deckofcards.AssemblyInfo.cs
+/home/hermitwife/cojo/dotnetcore/fundamentals/deckofcards/obj/Debug/netcoreapp1.1/deckofcards.dll
+/home/hermitwife/cojo/dotnetcore/fundamentals/deckofcards/obj/Debug/netcoreapp1.1/deckofcards.pdb
